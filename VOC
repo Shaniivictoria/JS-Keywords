@@ -1,0 +1,9 @@
+Var - Declares a Variable
+let - Declares a block Variable
+const - Declares a block constant
+if - Marks a block of starments to be executed on a condition
+switch - Marks a block of statements to be excuted in different cases
+for - Marks a block of statments to be executed in a loop
+function - declares a function
+return - Exits a function
+try - Implements error handling to a block statement
